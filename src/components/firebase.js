@@ -5,13 +5,13 @@ import {  getAuth, RecaptchaVerifier  } from "firebase/auth";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyA2-4ImTQQEJDECXqQqkyt13UpKiFyHWB0",
-  authDomain: "mobile-otp-verification-80bf5.firebaseapp.com",
-  projectId: "mobile-otp-verification-80bf5",
-  storageBucket: "mobile-otp-verification-80bf5.appspot.com",
-  messagingSenderId: "282299826959",
-  appId: "1:282299826959:web:d8ad5964b500aad7cef47a",
-  measurementId: "G-KL47RKXYNR"
+  apiKey: "AIzaSyBDapfDeOnk17hrQLON5su7m57E7sFsiaM",
+  authDomain: "mobile-otp-verification-f51bc.firebaseapp.com",
+  projectId: "mobile-otp-verification-f51bc",
+  storageBucket: "mobile-otp-verification-f51bc.appspot.com",
+  messagingSenderId: "914427935367",
+  appId: "1:914427935367:web:365be9a5dfab4613b1d622",
+  measurementId: "G-TM9J7DHDEE"
   };
 
   const app = initializeApp(firebaseConfig);
